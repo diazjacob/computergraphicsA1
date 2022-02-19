@@ -27,12 +27,12 @@ To test, open the Assign1Handout.pde file, and press play. You can see all demo 
 
 ## Some Images:
 
-<img src="/pics/normals.png" width="400">
+<img src="/pics/normals.PNG" width="400">
 
-<img src="/pics/coords.png" width="400">
+<img src="/pics/coords.PNG" width="400">
 
-<img src="/pics/shading.png" width="400">
+<img src="/pics/shading.PNG" width="400">
 
-<img src="/pics/lighitng.png" width="400">
+<img src="/pics/lighitng.PNG" width="400">
 
 
