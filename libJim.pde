@@ -15,11 +15,13 @@ final int SPHERE_SIZE = 200;
 final float[] LIGHT = {200, 200, 350}; // location of
 final float[] EYE = {0, 0, 600};
 
-final float[] OUTLINE_COLOR = {1.0f, .2f, .5f};
+final float[] OUTLINE_COLOR = {1.0f, 0f, 0f};
 final float[] FILL_COLOR    = {1.0f, 1.0f, 1.0f}; 
+final float[] NORMAL_COLOR  = {.9f, 0f, .75f};
+final int NORMAL_SCALE = 20;
 
 // reasonable constants for PHONG
-final float[] MATERIAL = {0.1, 0.8, 0.8}; // ambient, diffuse, specular %
+final float[] MATERIAL = {0.05, 0.65, 0.85}; // ambient, diffuse, specular %
 final int M_AMBIENT = 0; 
 final int M_DIFFUSE = 1; 
 final int M_SPECULAR = 2;  

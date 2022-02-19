@@ -33,9 +33,14 @@ float dot(float[] v1, float[] v2)
 }
 
 // return a new vector representing v1-v2
-float[] subtract(float[] v1, float v2[])
+float[] subtract3(float[] v1, float v2[])
 {
   return new float[]{v1[X] - v2[X], v1[Y] - v2[Y], v1[Z] - v2[Z]};
+}
+
+float[] subtract2(float[] v1, float v2[])
+{
+  return new float[]{v1[X] - v2[X], v1[Y] - v2[Y]};
 }
 
 // return a new vector representing v1+v2
@@ -44,8 +49,9 @@ float[] add(float[] v1, float[] v2)
     return new float[]{v1[X] + v2[X], v1[Y] + v2[Y], v1[Z] + v2[Z]};
 }
 
+
 // return a new vector representing v1*c
-float[] scale(float[] v1, float c)
+float[] scale3(float[] v1, float c)
 {
     return new float[]{v1[X]*c, v1[Y]*c, v1[Z]*c};
 }

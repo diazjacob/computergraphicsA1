@@ -25,8 +25,9 @@ Shading shading = Shading.NONE;
 boolean doOutline = true; // to draw, or not to draw (outline).. is the question
 boolean rotate = false;
 boolean normals = false;
-boolean accelerated = false;
+boolean accelerated = true;
 boolean lineTest = false;
+boolean backfaceCull = true;
 
 void keyPressed()
 {
