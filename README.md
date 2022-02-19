@@ -33,6 +33,6 @@ To test, open the Assign1Handout.pde file, and press play. You can see all demo 
 
 <img src="/pics/shading.PNG" width="400">
 
-<img src="/pics/lighitng.PNG" width="400">
+<img src="/pics/lighting.PNG" width="400">
 
 
