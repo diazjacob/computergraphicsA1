@@ -1,5 +1,5 @@
-# computergraphicsA1
-A link to my first computer graphics assignment in COMP3490. This assignment tasked us with creating arender engine in Processing with only direct OpenGL calls. We were required to understand the full graphics pipeline including:
+# COMP3490 - Computer Graphics A1
+A link to my first computer graphics assignment in COMP3490. This assignment tasked us with creating a render engine in Processing with only direct OpenGL calls. We were required to understand the full graphics pipeline including:
 
 - Rasterization
 - Raster vs. vector graphics
