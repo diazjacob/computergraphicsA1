@@ -24,3 +24,15 @@ A link to my first computer graphics assignment in COMP3490. This assignment tas
 This first assignment uses a lot of these concepts to implement a working graphics pipeline.
 
 To test, open the Assign1Handout.pde file, and press play. You can see all demo controls at the top of the Modes.pde file!
+
+## Some Images:
+
+<img src="/pics/normals.png" width="400">
+
+<img src="/pics/coords.png" width="400">
+
+<img src="/pics/shading.png" width="400">
+
+<img src="/pics/lighitng.png" width="400">
+
+
