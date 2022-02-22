@@ -7,7 +7,7 @@ A link to my first computer graphics assignment in COMP3490. This assignment tas
 - The MVP matrix and how it works
 - Normalized device coordinates
 - Aspect ratios
-- View frustrums
+- View frustums
 - The matrix stack
 - 3D object parameterizations
 - Face vertex windings
